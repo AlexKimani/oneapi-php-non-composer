@@ -1,7 +1,7 @@
 OneApi PHP client
 ============================
 
-* Note: For Composer version of this library switch to [this repository](https://github.com/infobip/oneapi-php). *
+*Note: For Composer version of this library switch to [this repository](https://github.com/infobip/oneapi-php).*
 
 Basic messaging example
 -----------------------
